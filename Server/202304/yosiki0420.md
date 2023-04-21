@@ -17,6 +17,9 @@ _title: Nginx & Apacheのチューニング
 ---
 
 # MPM(Multi Processing Module)について
+`apache -V or httpd -V`
+`/etc/httpd/conf.modules.d/00-mpm.conf`
+`/etc/apache2/extra/httpd-mpm.conf`
 
 ## prefork
 ## worker
@@ -75,3 +78,10 @@ _title_and_body: true
 ## クライアントのアクセスをイベントとして扱い、それをトリガーにプロセス内で処理を行う
 
 ---
+
+<!--
+_pagenate: true
+_title_and_body: true
+-->
+
+# ご静聴ありがとうございました。
