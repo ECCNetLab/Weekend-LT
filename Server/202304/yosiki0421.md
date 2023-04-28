@@ -16,6 +16,11 @@ _title: Nginx & Apacheのチューニング
 
 ---
 
+<!--
+_pagenate: true
+_title_and_body: true
+-->
+
 # MPM(Multi Processing Module)について
 `apache -V or httpd -V`
 `/etc/httpd/conf.modules.d/00-mpm.conf`
@@ -42,6 +47,7 @@ _title_and_body: true
 <!--
 _title_and_body: trues
 -->
+
 ![height:500](fig/prefork.png)
 
 ---
