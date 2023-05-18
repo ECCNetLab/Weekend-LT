@@ -22,7 +22,6 @@ theme: gradient
 - セキュリティのログ
 - cron のログ
 
-
 ---
 
 # journal と rsyslogの違い
