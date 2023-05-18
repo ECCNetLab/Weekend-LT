@@ -5,7 +5,6 @@ theme: gradient
 
 ---
 
-
 # journaldなんこいつ
 ## 林良輝
 
