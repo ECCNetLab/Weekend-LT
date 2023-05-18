@@ -32,7 +32,7 @@ theme: gradient
 
 ---
 
-# journalくんの仕事
+# journalくんの仕事詳細
 ![](fig/journal2.png)
 
 ---
