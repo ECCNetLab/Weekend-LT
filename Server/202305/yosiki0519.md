@@ -11,12 +11,12 @@ theme: gradient
 
 --- 
 
-# journal と syslogの違い
+# journalって何してんねん
+
 
 ---
 
-# journalって何してんねん
-
+# journal と syslogの違い
 ---
 
 # journalくんの仕事
