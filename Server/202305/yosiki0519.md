@@ -13,15 +13,32 @@ theme: gradient
 
 # journalって何してんねん
 
+---
+
+# jounalが収集している主なログ
+- システムのログ
+- カーネルのログ
+- サービスのログ
+- ログインユーザーのログ
+- セキュリティのログ
+- cron のログ
+
 
 ---
 
-# journal と syslogの違い
+# journal と rsyslogの違い
+
+> https://knowledge.sakura.ad.jp/8969/
+
 ---
 
 # journalくんの仕事
 ![](fig/journal2.png)
 
+---
+
+# journalはrsyslogより強かった
+
 --- 
 
-# ご成長ありがとうございました。
+# ご清聴ありがとうございました。
