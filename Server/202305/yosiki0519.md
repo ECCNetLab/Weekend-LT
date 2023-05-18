@@ -5,7 +5,6 @@ theme: gradient
 
 ---
 
-
 # journaldなんこいつ
 ## 林良輝
 
@@ -22,7 +21,6 @@ theme: gradient
 - ログインユーザーのログ
 - セキュリティのログ
 - cron のログ
-
 
 ---
 
