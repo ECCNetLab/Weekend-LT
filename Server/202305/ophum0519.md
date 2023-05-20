@@ -1,6 +1,8 @@
 ---
+
 marp: true
 theme: gradient
+
 ---
 
 # cloud-init でサーバーをセットアップ
