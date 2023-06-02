@@ -21,15 +21,15 @@ theme: gradient
 ---
 
 # 順序
-リゾルバ(resolver)がnsswitch.confで名前解決の順序を確認
+`リゾルバ(resolver)がnsswitch.confで名前解決の順序を確認`
 　　　　　　　　　　　　　↓
-指定された順番通りにファイル/サーバの内容をチェックする
+`指定された順番通りにファイル/サーバの内容をチェックする`
 
 
 ---
 
 ## /etc/hosts
-```
+```text
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
