@@ -57,6 +57,16 @@ theme: gradient
 
 ---
 
+# XDP Architecture
+![](fig/eBPF_xdp.png)
+
+---
+
+# XDP レイヤ
+![padding:80 height:500](fig/xdp1.png)
+
+---
+
 # まとめ
 
 ---
